@@ -1,0 +1,16 @@
+# Archivos generados por Cabal
+dist-newstyle/
+
+# Archivos compilados de Haskell
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
